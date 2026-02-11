@@ -33,24 +33,24 @@ const CONFIG = {
             nextBtn: "Следующая ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will You Be Mine? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Ты со мной навсегда?(попробуй сначала нажать "нет" хихихи) 🌹", // The big question!
+            yesBtn: "Да!",                                             // Text for "Yes" button
+            noBtn: "Нет"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ВААААУ, Ты так сильно любишь меня??? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "До бесконечности и дальше! 🚀💝",              // Shows when they go past 1000%
+        normal: "И дальше! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "If someday you wake up and u slowly open ur eyes\n and find that you are in a room whose walls are red and there are no windows and doors in the room.\n Don't get panick,\n you are in my heart",
+        title: "Ура! Я самый счастливый человек на свете! 🎉💝💖💝💓",
+        message: "Если однажды ты проснешься,\n медленно откроешь глаза и обнаружишь, что находишься в комнате с красными стенами и без окон и дверей.\n Не паникуй, ты в моем сердце.",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
