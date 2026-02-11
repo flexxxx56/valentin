@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: ":)",
+    valentineName: "Арина, любовь моя!",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,15 +22,15 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Я тебе нравлюсь?",                                    // First interaction
+            yesBtn: "Да",                                             // Text for "Yes" button
+            noBtn: "Нет",                                               // Text for "No" button
+            secretAnswer: "Ты мне не нравишься, я люблю тебя! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "Как сильно ты любишь меня?",                          // For the love meter
+            startText: "Очень сильно!",                                   // Text before the percentage
+            nextBtn: "Следующая ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will You Be Mine? 🌹", // The big question!
